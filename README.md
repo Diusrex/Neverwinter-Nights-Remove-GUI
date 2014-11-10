@@ -1,7 +1,7 @@
 Neverwinter Nights Remove GUI
 =============================
 
-The hak pak in this branch contains all of the following files, and will completely remove the GUI, other than the current limiation of the popup map.
+The hak pak in this branch contains all of the following files, and will completely remove the GUI, other than the current limiation of the [popup map](http://www.diusrex.com/2014/11/neverwinter-nights-remove-gui/#popup-map).
 
 gui related files
 -----------------------------
